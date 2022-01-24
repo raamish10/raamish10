@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently working on personal projects.
 - 📚 I’m currently studying Computer Engineering at the University of Alberta
-- 🖥 I'm using Python, Java, and JavaScript.
-- 
+
+
 ### TECHNICAL SKILLS
 
 **Design:** Adobe Illustrator, Adobe Photoshop (Beginner), Tableau, Cadence Virtuoso
@@ -12,9 +11,10 @@
 **Software:** Microsoft Office (Word, Excel, PowerPoint, Access), Linux and GitHub experience
 **Equipment:** Arduino, Raspberry Pi
 
+
 ### Stats 
 ![github stats](https://github-readme-stats.vercel.app/api?username=raamish10&count_private=true&show_icons=true&theme=graywhite&hide_border=True) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raamish10&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raamish10&langs_count=3)
 
 
 ### Social 
