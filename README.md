@@ -6,8 +6,8 @@
 ### TECHNICAL SKILLS
 
 **Design:** Adobe Illustrator, Adobe Photoshop (Beginner), Tableau, Cadence Virtuoso<br />
-**Programming:** MATLAB, Java, C, C#, C++, Python, FreeRTOS, VHDL, SQL, JavaScript, PHP<br />
-**Software:** Microsoft Office (Word, Excel, PowerPoint, Access), Linux and GitHub experience<br />
+**Programming:** Python, JavaScript, HTML/CSS, Java, C#, C++, SQL, VHDL, PHP, MATLAB, R<br />
+**Software:** Microsoft Office (Word, Excel, PowerPoint, Access), Linux, Docker, and GitHub experience<br />
 **Equipment:** Arduino, Raspberry Pi<br />
 
 
