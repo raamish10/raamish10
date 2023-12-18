@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 I’m currently studying Computer Engineering at the University of Alberta
+- 📚 I graduated with a degree in Computer Engineering from the University of Alberta.
 
 
 ### TECHNICAL SKILLS
